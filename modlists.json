@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "LegacyRim",
+    "description": "A complete visual makeover of Skyrim while sticking to the original system requirements!",
+    "author": "RhombusVoid",
+    "maintainers": [
+      "github/RhombusVoid"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "",
+      "readme": "",
+      "download": "",
+      "machineURL": "",
+      "discordURL": ""
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash":"IHRFt6FTCVs=",
+      "Size":2289112,
+      "NumberOfArchives":248,
+      "SizeOfArchives":15511951941,
+      "NumberOfInstalledFiles":13637,
+      "SizeOfInstalledFiles":23655055293,
+      "TotalSize":39167007234
+    },
+    "version": "0.1.0"
+  }
+]
+
