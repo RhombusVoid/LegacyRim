@@ -9,7 +9,7 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "NSFW",
+      "SFW",
       "Steam",
       "Vanilla+"
     ],
@@ -25,14 +25,13 @@
       "discordURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash":"IHRFt6FTCVs=",
-      "Size":2289112,
+      "Hash":"v3kZuy3lOwQ=",
+      "Size":5752655,
       "NumberOfArchives":248,
-      "SizeOfArchives":15511951941,
-      "NumberOfInstalledFiles":13637,
-      "SizeOfInstalledFiles":23655055293,
-      "TotalSize":39167007234
+      "SizeOfArchives":15713807230,
+      "NumberOfInstalledFiles":13941,
+      "SizeOfInstalledFiles":23671572317,
+      "TotalSize":39385379547
     },
     "version": "0.1.0"
   }
