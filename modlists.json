@@ -24,16 +24,8 @@
       "machineURL": "LegacyRim",
       "discordURL": ""
     },
-    "download_metadata": {
-      "Hash":"v3kZuy3lOwQ=",
-      "Size":5752655,
-      "NumberOfArchives":248,
-      "SizeOfArchives":15713807230,
-      "NumberOfInstalledFiles":13941,
-      "SizeOfInstalledFiles":23671572317,
-      "TotalSize":39385379547
-    },
-    "version": "0.1.0"
+    "download_metadata": {"Hash":"X5GaO1I56aQ=","Size":6740512,"NumberOfArchives":246,"SizeOfArchives":15568859496,"NumberOfInstalledFiles":13899,"SizeOfInstalledFiles":23733089020,"TotalSize":39301948516},
+    "version": "0.5.0.1"
   }
 ]
 
