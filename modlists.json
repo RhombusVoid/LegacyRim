@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "LegacyRim",
     "description": "LegacyRim is an attempt to expand on the Great Modlist LoreRim. The intent is to keep every visual and difficulty tweak possible from LoreRim and add in the extended gameplay from exploring every nook and cranny of the world to collect and fill the museum.",
     "author": "RhombusVoid",
@@ -8,24 +7,38 @@
       "github/RhombusVoid"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
-      "LoreRim+"
+      "LoreRim\u002B"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/RhombusVoid/LegacyRim/refs/heads/main/LegacyRim%20-%20Logo%2016x9.jpg",
       "readme": "https://raw.githubusercontent.com/RhombusVoid/LegacyRim/refs/heads/main/README.md",
-      "download": "https://build.wabbajack.org/authored_files/download/LegacyRim.wabbajack_6e2c6c25-db55-43a9-aa9b-8a4b5fe6e257",
+      "download": "https://authored-files.wabbajack.org/LegacyRim.wabbajack_c1595ed9-547c-4b7b-bb99-508caebbb495",
       "machineURL": "LegacyRim",
-      "discordURL": ""
+      "discordURL": "",
+      "websiteURL": "",
+      "nexusCollection": null
     },
-    "download_metadata": {"Hash":"+ug8XbQbWOo=","Size":10284721,"NumberOfArchives":245,"SizeOfArchives":15568858284,"NumberOfInstalledFiles":13948,"SizeOfInstalledFiles":23760178653,"TotalSize":39329036937},
-    "version": "0.5.0.1"
+    "download_metadata": {
+      "Hash": "juxoBPi2Xt8=",
+      "Size": 10284782,
+      "NumberOfArchives": 245,
+      "SizeOfArchives": 15568858284,
+      "NumberOfInstalledFiles": 13948,
+      "SizeOfInstalledFiles": 23760178653,
+      "TotalSize": 39329036937
+    },
+    "version": "0.5.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-09-03T11:51:41.5649361Z",
+    "repositoryName": ""
   }
 ]
-
