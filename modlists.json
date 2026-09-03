@@ -25,7 +25,12 @@
       "machineURL": "LegacyRim",
       "discordURL": "",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "503507",
+        "slug": "dje1vy",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "juxoBPi2Xt8=",
