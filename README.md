@@ -3,10 +3,10 @@
 LegacyRim is an attempt to expand on the Great Modlist LoreRim. The intent is to keep every visual and difficulty tweak possible from LoreRim and add in the extended gameplay from exploring every nook and cranny of the world to collect and fill the museum. Initial intent is just merger of the two. Later intention is to expand the level range of the world. Due to the nature of Requiem which LoreRim is built upon the game can become more trivial and less interesting. My desire is to tweak min/max level ranges of encounters. So you may get to a point where gear leveling flattens out, but there are still items hidden in more difficult dungeons So less static than Requiem, but everything doesn't just level with you like the original.  
 
 ### Installation instructions  
-  **1** Install LoreRim 5 from Wabbajack  
-  **2** Install LegacyRim.wabbajack from the 7z in it's own separate folder. 
-  **3** Copy everything installed in the LegacyRim install directly into to LoreRim folder. It does not overwrite anything in LoreRim. It's a symbiotic parasite to LoreRim  
-  **4** Play using one of the LegacyRim Profiles which use the same settings as their LoreRim counterparts  
+>**1** Install LoreRim 5 from Wabbajack  
+>**2** Install LegacyRim.wabbajack from the 7z in it's own separate folder. 
+>**3** Copy everything installed in the LegacyRim install directly into to LoreRim folder. It does not overwrite anything in LoreRim. It's a symbiotic parasite to LoreRim  
+>**4** Play using one of the LegacyRim Profiles which use the same settings as their LoreRim counterparts  
 
 It's also possible to use some of the Optional or Miscellaneous Files can be used in a not full LoreRim install with LotD to reduce the number of patches for that. It's not recommended for unexperienced modders
 
