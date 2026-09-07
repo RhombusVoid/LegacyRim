@@ -1,12 +1,18 @@
 # LegacyRim
 ### Description
-LegacyRim is an attempt to expand on the Great Modlist LoreRim. The intent is to keep every visual and difficulty tweak possible from LoreRim and add in the extended gameplay from exploring every nook and cranny of the world to collect and fill the museum. Initial intent is just merger of the two. Later intention is to expand the level range of the world. Due to the nature of Requiem which LoreRim is built upon the game can become more trivial and less interesting. My desire is to tweak min/max level ranges of encounters. So you may get to a point where gear leveling flattens out, but there are still items hidden in more difficult dungeons So less static than Requiem, but everything doesn't just level with you like the original.  
+LegacyRim is an attempt to expand on the Great Modlist LoreRim. The intent is to keep every visual and difficulty tweak possible from LoreRim and add in the extended gameplay from exploring every nook and cranny of the world to collect and fill the museum.
 
-### Installation instructions  
->**1** Install LoreRim 5 from Wabbajack  
->**2** Install LegacyRim From Wabbajack in it's own separate folder. 
->**3** Copy everything installed in the LegacyRim install directly into to LoreRim folder. It does not overwrite anything in LoreRim. It's a symbiotic parasite to LoreRim  
->**4** Play using one of the LegacyRim Profiles which use the same settings as their LoreRim counterparts  
+### Main features
+The Core is LoreRim and Legacy of the Dragonborn
+
+### Before you start
+This is still Very much a WIP. It is playable, but there is still a lot that needs properly mixed in. For example, LoreRim is heavily built around Requiem 5, which already has most of Immersive Weapons Built in. But because Requiem has different FormIDs Those versions are considered completely different items by the game and are not displayable in the Museum. These will be intermingled so eventually you only find one FormID version that's displayable in the Museum.
+__Requirements__
+>1 Requires a full LoreRim install
+>>https://www.nexusmods.com/skyrimspecialedition/mods/112590
+>Install LegacyRim in a separate folder from LoreRim
+>Copy everything installed in the LegacyRim install directly into to LoreRim folder. It does not overwrite anything in LoreRim. Lets call it a symbiotic parasite to LoreRim, It's a LoreRim Trill
+>Play using one of the LegacyRim Profiles which use the same settings as their LoreRim counterparts
 
 It's also possible to use some of the Optional or Miscellaneous Files can be used in a not full LoreRim install with LotD to reduce the number of patches for that. It's not recommended for unexperienced modders
 
