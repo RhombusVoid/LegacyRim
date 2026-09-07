@@ -4,7 +4,7 @@ LegacyRim is an attempt to expand on the Great Modlist LoreRim. The intent is to
 
 ### Installation instructions  
 >**1** Install LoreRim 5 from Wabbajack  
->**2** Install LegacyRim.wabbajack from the 7z in it's own separate folder. 
+>**2** Install LegacyRim From Wabbajack in it's own separate folder. 
 >**3** Copy everything installed in the LegacyRim install directly into to LoreRim folder. It does not overwrite anything in LoreRim. It's a symbiotic parasite to LoreRim  
 >**4** Play using one of the LegacyRim Profiles which use the same settings as their LoreRim counterparts  
 
