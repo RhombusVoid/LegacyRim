@@ -8,11 +8,10 @@ The Core is LoreRim and Legacy of the Dragonborn
 ### Before you start  
 This is still Very much a WIP. It is playable, but there is still a lot that needs properly mixed in. For example, LoreRim is heavily built around Requiem 5, which already has most of Immersive Weapons Built in. But because Requiem has different FormIDs Those versions are considered completely different items by the game and are not displayable in the Museum. These will be intermingled so eventually you only find one FormID version that's displayable in the Museum.  
 __Requirements__  
->1 Requires a full LoreRim install  
->>https://www.nexusmods.com/skyrimspecialedition/mods/112590  
->Install LegacyRim in a separate folder from LoreRim  
->Copy everything installed in the LegacyRim install directly into to LoreRim folder. It does not overwrite anything in LoreRim. Lets call it a symbiotic parasite to LoreRim, It's a LoreRim Trill  
->Play using one of the LegacyRim Profiles which use the same settings as their LoreRim counterparts    
+>1 Requires a full LoreRim install https://www.nexusmods.com/skyrimspecialedition/mods/112590  
+>2 Install LegacyRim in a separate folder from LoreRim  
+>3 Copy everything installed in the LegacyRim install directly into to LoreRim folder. It does not overwrite anything in LoreRim. Lets call it a symbiotic parasite to LoreRim, It's a LoreRim Trill  
+>4 Play using one of the LegacyRim Profiles which use the same settings as their LoreRim counterparts    
 
 It's also possible to use some of the Optional or Miscellaneous Files can be used in a not full LoreRim install with LotD to reduce the number of patches for that. It's not recommended for unexperienced modders  
 
