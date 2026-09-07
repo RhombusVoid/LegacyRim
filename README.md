@@ -27,7 +27,7 @@ Consistency are step 3 level
 These are the last level patches that will merge together the step 2 level esps. These require a full LoreRim install and most likely a full LotD setup.   
 
 ### Changelog
-0.5.0.2 ASA, ToK, &amp; LOA Mostly blended together. All Aetherium deposits are LOA ones, ignots for all three can be crafted from that ore.  
+_0.5.0.2_ ASA, ToK, &amp; LOA Mostly blended together. All Aetherium deposits are LOA ones, ignots for all three can be crafted from that ore.  
 You 3 stage craft each line of the ASA models with LOA and ASA ignots, only the last is museum displayable. And you need to do related quests to be able to craft. The lower tier line (steel) will have LOA enhancements, the upper ASA enhancements.  
 TOK now uses LOA models and will see increases in base Armor rating. Enchants and Recipes are updated, but still incomplete and very unbalanced. Going cross eyed trying to decide exactly how to distribute the enchants so moving on to something else for a bit. suggestions welcome.  
 
