@@ -35,4 +35,5 @@ _0.5.0.2_ ASA, ToK, &amp; LOA Mostly blended together. All Aetherium deposits ar
 You 3 stage craft each line of the ASA models with LOA and ASA ignots, only the last is museum displayable. And you need to do related quests to be able to craft. The lower tier line (steel) will have LOA enhancements, the upper ASA enhancements.  
 TOK now uses LOA models and will see increases in base Armor rating. Enchants and Recipes are updated, but still incomplete and very unbalanced. Going cross eyed trying to decide exactly how to distribute the enchants so moving on to something else for a bit. suggestions welcome.  
 _0.5.0.3_ Some More Interiors patches Merges. Added some patches that were available for some of the mods. Rebuilt under LoreRim 5.0.4.8 and Wabbajack 4.2.3.0
+_0.5.0.4_ Checking some of the museum armory realized some of the displays were statics and not specifically placed of the original object. This leads to some issues of not having a proper static to match some changes. Then also ran into GAR and requiem have significantly different guard armors. Slowly replacing 
 
