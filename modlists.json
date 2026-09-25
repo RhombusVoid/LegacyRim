@@ -32,16 +32,8 @@
         "lastRevisionNumber": 4
       }
     },
-    "download_metadata": {
-      "Hash": "xKam7CPvIec=",
-      "Size": 5710230,
-      "NumberOfArchives": 255,
-      "SizeOfArchives": 15719287112,
-      "NumberOfInstalledFiles": 15253,
-      "SizeOfInstalledFiles": 23992147417,
-      "TotalSize": 39711434529
-    },
-    "version": "0.5.0.3",
+    "download_metadata": {"Hash":"jCKKSJ5LDXU=","Size":36336191,"NumberOfArchives":251,"SizeOfArchives":16131841415,"NumberOfInstalledFiles":32060,"SizeOfInstalledFiles":24644453087,"TotalSize":40776294502},
+    "version": "0.5.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-09-13T21:26:14.3206139Z",
     "repositoryName": ""
