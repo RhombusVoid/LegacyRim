@@ -21,7 +21,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/RhombusVoid/LegacyRim/refs/heads/main/LegacyRim%20-%20Logo%2016x9.jpg",
       "readme": "https://github.com/RhombusVoid/LegacyRim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/LegacyRim.wabbajack_83257753-87cf-4334-bd3b-36b208bc22e8",
+      "download": "https://authored-files.wabbajack.org/LegacyRim.wabbajack_96309fb3-0764-4c58-9bb7-4002fd0cd489",
       "machineURL": "LegacyRim",
       "discordURL": "",
       "websiteURL": "",
@@ -33,17 +33,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "5wazf1fkj3U=",
-      "Size": 103480769,
-      "NumberOfArchives": 255,
-      "SizeOfArchives": 16168174749,
-      "NumberOfInstalledFiles": 32178,
-      "SizeOfInstalledFiles": 24931641724,
-      "TotalSize": 41099816473
+      "Hash": "M1EygjYHEgo=",
+      "Size": 35325080,
+      "NumberOfArchives": 249,
+      "SizeOfArchives": 16012622010,
+      "NumberOfInstalledFiles": 31954,
+      "SizeOfInstalledFiles": 24548909450,
+      "TotalSize": 40561531460
     },
     "version": "0.5.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-27T15:33:49.0805727Z",
+    "dateUpdated": "2026-09-27T21:40:30.9457839Z",
     "repositoryName": ""
   }
 ]
