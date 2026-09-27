@@ -20,8 +20,8 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/RhombusVoid/LegacyRim/refs/heads/main/LegacyRim%20-%20Logo%2016x9.jpg",
-      "readme": "https://raw.githubusercontent.com/RhombusVoid/LegacyRim/refs/heads/main/README.md",
-      "download": "https://authored-files.wabbajack.org/LegacyRim.wabbajack_3d798dee-e746-4188-9b5d-669e31e9b2a9",
+      "readme": "https://github.com/RhombusVoid/LegacyRim/",
+      "download": "https://build.wabbajack.org/authored_files/download/LegacyRim.wabbajack_3d798dee-e746-4188-9b5d-669e31e9b2a9",
       "machineURL": "LegacyRim",
       "discordURL": "",
       "websiteURL": "",
